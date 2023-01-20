@@ -1,16 +1,9 @@
-# custom_error_page
+# Project to get special error messages for web browser in Flutter. In this project, the Offline error screen and the method of getting the error screen according to the HTTP errors received are explained.
 
-A new Flutter project.
+- Special offline screen
+- Special  HTTP error screen
+- 🛡️ Null safety
 
-## Getting Started
+# Screenshoot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](screenshoot/screenshoot.gif)
