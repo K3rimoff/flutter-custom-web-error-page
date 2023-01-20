@@ -6,4 +6,4 @@
 
 # Screenshoot
 
-![](screenshoot/screenshoot.gif)
+![](screenshoot.gif)
