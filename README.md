@@ -2,6 +2,10 @@
 
 - Special offline screen
 - Special  HTTP error screen
+- Double tap to exit app
+- Dark & Light Theme
+- Pull to Refresh Page
+- Colored Circular Progress Indicator
 - 🛡️ Null safety
 
 # Screenshoot
